@@ -1,4 +1,4 @@
-package com.SreamTasks;
+package com.StreamTasks;
 
 import java.util.Objects;
 
