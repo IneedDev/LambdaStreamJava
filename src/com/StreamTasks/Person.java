@@ -2,7 +2,7 @@ package com.StreamTasks;
 
 import java.util.Objects;
 
-public class Person {
+public class Person{
     private int age;
     private String name;
     private String sureName;
@@ -60,4 +60,9 @@ public class Person {
                 ", sureName='" + sureName + '\'' +
                 '}';
     }
+
+//    @Override
+//    public int compareTo(Object o) {
+//        return 0;
+//    }
 }
