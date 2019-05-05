@@ -1,4 +1,4 @@
-package com.core.Methods.paskage1;
+package com.core.Methods.package2;
 
 public class MotherDuck {
 
